@@ -1,6 +1,8 @@
 {
   "name": "healthcare-digital-twin",
   "compatibility_date": "2026-09-01",
+  "workers_dev": true,
+  "preview_urls": true,
   // Static SPA: all telemetry is simulated in the browser, no backend.
   "assets": {
     "directory": "./dist",
